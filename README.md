@@ -6,13 +6,13 @@ poder escolher a cartegoria dele<br>
 **IMPORTANTE**: Projeto desenvolvido para fins de estudo!!!
 
 ## TELA 1
-**tela inicial** 
+**Tela inicial** 
 <div>
 <img src="https://github.com/Murilo-Nep0muceno/imgs/blob/master/cadastro_produto/tela1.png" widht="700px"/> 
 </div>
 
 # TELA 2
-aqui aonde o usuario poderar ver todos os itens adicionados podendo excuir algum item e tambem baixar um pdf da lista
+Aqui aonde o usuario poderar ver todos os itens adicionados podendo excuir algum item e tambem baixar um pdf da lista
 <div>
 <img src="https://github.com/Murilo-Nep0muceno/imgs/blob/master/cadastro_produto/tela2.png" widht="700px"/> 
 </div>
