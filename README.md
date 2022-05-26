@@ -1,7 +1,7 @@
 # Sistema_de_Cadastro
 ## Sobre
-O projeto é um sistema para cadastrar itens de uma loja você pode cadastra o código do produto, o nome dele e o preço , além de 
-poder escolher a cartegoria dele<br>
+O projeto é um sistema para cadastrar itens de uma loja, você pode cadastrar o código do produto, o nome dele e o preço , além de 
+poder escolher a categoria dele.<br>
 
 **IMPORTANTE**: Projeto desenvolvido para fins de estudo!!!
 
@@ -12,7 +12,7 @@ poder escolher a cartegoria dele<br>
 </div>
 
 # TELA 2
-Aqui aonde o usuario poderar ver todos os itens adicionados podendo excuir algum item e tambem baixar um pdf da lista
+Aqui aonde o usuário poderá ver todos os itens adicionados podendo excluir algum item e tambem baixar um pdf da lista
 <div>
 <img src="https://github.com/Murilo-Nep0muceno/imgs/blob/master/cadastro_produto/tela2.png" widht="700px"/> 
 </div>
@@ -25,12 +25,15 @@ Aqui aonde o usuario poderar ver todos os itens adicionados podendo excuir algum
 </div>
 
 ## Pré-requisitos
-Você precisara de um bom editor de código como por exemplo o <a href="https://code.visualstudio.com/download">VSCode</a> e também tera que instalar o <a href="https://www.python.org/">Python </a> <br>
+Você precisará de um bom editor de código como por exemplo o <a href="https://code.visualstudio.com/download">VSCode</a> e também terá que instalar o <a href="https://www.python.org/">Python </a> <br>
 
 ### Bibliotecas baixadas <br>
+
+``` bash
   pip install PyQt5 PyQt5-tools <br>
   pip install mysql<br>
   pip install reportLab
+```
   
   
   # Tecnologias usadas
